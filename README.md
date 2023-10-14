@@ -9,6 +9,13 @@ En el script 2 se varia demasiado la frecuencia prefererida asi aque se consider
 En el script 3 no correr la importacion de Random walk,ya que existe archivo encontrado
 En el script 4 necesitamos la data de RandowWalk.csv,sin embargo esta no existente,pues se añade al dataframe original que se importa en Index_2018.csv ahora llamado Index_modified.csv,por ello es que solo se comentara cada linea de codigo.Modificacion de libreria nueva
 from statsmodels.tsa.arima.model import ARIMA
+En el script 5 esta todo completado con teoria 
 
 Importante:
 En cada script usar la data Index_modified.csv y correr el siguiente codigo df_comp.set_index("date", inplace=True)
+Modificar la liberia en cada libreria asi 
+from statsmodels.tsa.arima.model import ARIMA
+Usar ARIMA,en lugar de arma,y la estructura sera (p,i,q)
+p= Rezagos Modelo AR
+i = diferencias Modelo ARIMA
+q = Errores Modelo MA
