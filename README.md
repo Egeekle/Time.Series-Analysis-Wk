@@ -6,7 +6,7 @@
 -📍Astrid Caroline Ginez Quispe 20120221
 -📍Marianela Mabel Quispe Lopez 20120275
 -📍Jhordy Christian villar Quito 20120081
-Análisis de series temporales de datos desde cero. También implemento el modelo autorregresivo (AR), el modelo de media móvil (MA), el modelo de media móvil autorregresiva (ARMA), el modelo de media móvil autorregresiva integrada (ARIMA), el modelo ARCH, el modelo GARCH, Auto ARIMA, pronósticos y explorar un caso de negocio.
+- Análisis de series temporales de datos desde cero. También implemento el modelo autorregresivo (AR), el modelo de media móvil (MA), el modelo de media móvil autorregresiva (ARMA), el modelo de media móvil autorregresiva integrada (ARIMA), el modelo ARCH, el modelo GARCH, Auto ARIMA, pronósticos y explorar un caso de negocio.
 
 Memories for Analysis on Time Series for finance
 ## Proceso
