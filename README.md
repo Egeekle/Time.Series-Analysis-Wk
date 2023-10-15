@@ -10,7 +10,7 @@ En el script 3 no correr la importacion de Random walk,ya que existe archivo enc
 En el script 4 necesitamos la data de RandowWalk.csv,sin embargo esta no existente,pues se añade al dataframe original que se importa en Index_2018.csv ahora llamado Index_modified.csv,por ello es que solo se comentara cada linea de codigo.Modificacion de libreria nueva
 from statsmodels.tsa.arima.model import ARIMA
 En el script 5 esta todo completado con teoria 
-
+del script 6 al 12 listo solo falta comentar
 Importante:
 En cada script usar la data Index_modified.csv y correr el siguiente codigo df_comp.set_index("date", inplace=True)
 Modificar la liberia en cada libreria asi 
